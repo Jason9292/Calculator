@@ -1,0 +1,9 @@
+c:\users\jasonatusf\documents\visual studio 2015\Projects\JasonMellingerProject\bin\Debug\JasonMellingerProject.exe.config
+c:\users\jasonatusf\documents\visual studio 2015\Projects\JasonMellingerProject\bin\Debug\JasonMellingerProject.exe
+c:\users\jasonatusf\documents\visual studio 2015\Projects\JasonMellingerProject\bin\Debug\JasonMellingerProject.pdb
+c:\users\jasonatusf\documents\visual studio 2015\Projects\JasonMellingerProject\obj\Debug\JasonMellingerProject.csprojResolveAssemblyReference.cache
+c:\users\jasonatusf\documents\visual studio 2015\Projects\JasonMellingerProject\obj\Debug\JasonMellingerProject.Form1.resources
+c:\users\jasonatusf\documents\visual studio 2015\Projects\JasonMellingerProject\obj\Debug\JasonMellingerProject.Properties.Resources.resources
+c:\users\jasonatusf\documents\visual studio 2015\Projects\JasonMellingerProject\obj\Debug\JasonMellingerProject.csproj.GenerateResource.Cache
+c:\users\jasonatusf\documents\visual studio 2015\Projects\JasonMellingerProject\obj\Debug\JasonMellingerProject.exe
+c:\users\jasonatusf\documents\visual studio 2015\Projects\JasonMellingerProject\obj\Debug\JasonMellingerProject.pdb
